@@ -1,23 +1,57 @@
-/* src/components/MapComponent.css */
-.styled-button {
-    background-color: #4CAF50; /* Зелений фон */
-    color: white; /* Білий текст */
-    padding: 10px 20px; /* Внутрішні відступи */
-    border: none; /* Без рамки */
-    border-radius: 5px; /* Закруглені кути */
-    cursor: pointer; /* Курсор при наведенні */
-    margin: 5px; /* Відстань між кнопками */
-    transition: background-color 0.3s; /* Анімація при зміні кольору */
-}
-
-.styled-button:hover {
-    background-color: #45a049; /* Темніший зелений при наведенні */
-}
-
 .marker-info-panel {
     margin-top: 20px;
     padding: 15px;
-    border: 1px solid #ddd; /* Сіра рамка */
-    border-radius: 5px; /* Закруглені кути */
-    background-color: #f9f9f9; /* Світло-сірий фон */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
 }
+
+
+.controls {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin: 0 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:disabled {
+    background-color: #d3d3d3; /* Light gray color */
+    color: #7d7d7d; /* Darker gray for text */
+    cursor: not-allowed; /* Change cursor to indicate disabled */
+}
+
+
+button:hover {
+    background-color: #0056b3;
+}
+
+button.active {
+    background-color: #28a745;
+}
+
+.delete-all {
+    background-color: #dc3545;
+}
+
+.delete-all:hover {
+    background-color: #c82333;
+}
+
+.marker-info {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+}
+
