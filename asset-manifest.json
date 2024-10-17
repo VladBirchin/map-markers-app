@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/map-markers-app/static/css/main.19c974b5.css",
+    "main.js": "/map-markers-app/static/js/main.5a022db5.js",
+    "index.html": "/map-markers-app/index.html",
+    "main.19c974b5.css.map": "/map-markers-app/static/css/main.19c974b5.css.map",
+    "main.5a022db5.js.map": "/map-markers-app/static/js/main.5a022db5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19c974b5.css",
+    "static/js/main.5a022db5.js"
+  ]
+}
