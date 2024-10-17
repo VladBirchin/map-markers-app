@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/map-markers-app/static/css/main.240399f7.css",
-    "main.js": "/map-markers-app/static/js/main.c79d8244.js",
+    "main.css": "/map-markers-app/static/css/main.82dce26a.css",
+    "main.js": "/map-markers-app/static/js/main.24681d22.js",
     "index.html": "/map-markers-app/index.html",
-    "main.240399f7.css.map": "/map-markers-app/static/css/main.240399f7.css.map",
-    "main.c79d8244.js.map": "/map-markers-app/static/js/main.c79d8244.js.map"
+    "main.82dce26a.css.map": "/map-markers-app/static/css/main.82dce26a.css.map",
+    "main.24681d22.js.map": "/map-markers-app/static/js/main.24681d22.js.map"
   },
   "entrypoints": [
-    "static/css/main.240399f7.css",
-    "static/js/main.c79d8244.js"
+    "static/css/main.82dce26a.css",
+    "static/js/main.24681d22.js"
   ]
 }
