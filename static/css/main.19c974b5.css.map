@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.19c974b5.css","mappings":"AACA,KACE,iBACF,CAEA,GACE,UACF","sources":["styles.css"],"sourcesContent":["/* src/styles.css */\n.App {\n  text-align: center;\n}\n\nh1 {\n  color: #333;\n}\n"],"names":[],"sourceRoot":""}
