@@ -17,7 +17,7 @@ const center = {
 
 const MapComponent: React.FC = () => {
     const { isLoaded } = useJsApiLoader({
-        googleMapsApiKey: "AIzaSyC9XSnTaUMXhL7BuEgyTrPQskLE2XNjBeM",
+        googleMapsApiKey: "**********",
     });
 
     const {
